@@ -1,0 +1,14 @@
+[
+  {
+    "QuantPessoas": 150,
+    "Produto": "lápis",
+    "Preco": 2.50,
+    "Horario": "2024-05-28T08:06:24.5260482-03:00"
+  },
+  {
+    "QuantPessoas": 2,
+    "Produto": "Notebook",
+    "Preco": 2000.00,
+    "Horario": "2024-05-28T08:06:24.5260482-03:00"
+  }
+]
