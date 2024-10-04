@@ -27,7 +27,7 @@ namespace Aula_Nuget
             File.WriteAllText("ListaDeDados.json", serializacaoLista);
 
             /*
-            //VOU USAR O JSON AQUI OIA
+            
             string serializacao = JsonConvert.SerializeObject(dados); //Serializei dados
 
             File.WriteAllText("teste.json", serializacao); //Ele já sabe em qual pasta criar só coloca o nome entre""
