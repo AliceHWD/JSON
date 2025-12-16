@@ -1,1 +1,2 @@
 # JSON
+Projeto em C# desenvolvido para demonstrar o uso do pacote Newtonsoft.Json na serialização de objetos. A aplicação cria uma coleção de dados contendo informações como produto, preço, quantidade de pessoas e horário atual, converte esses dados para o formato JSON e os salva em um arquivo local. O projeto tem como objetivo praticar a manipulação de objetos, listas e persistência de dados em JSON.
